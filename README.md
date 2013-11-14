@@ -3,6 +3,12 @@ Temperature Converter
 
 An Android app for converting temperature between Celsius, Fahrenheit, and Kelvin.
 
+Code source provided by Gerry Hurdle @hurdleg. 
+
+Source Code can be found Here:
+
+https://github.com/hurdleg/Temperature-Converter-Android-App.git
+
 To Use
 ------
 
